@@ -1,18 +1,16 @@
-# Banco de Dados Relacional
+🗄️ Banco de Dados Relacional
 
-Atividades da disciplina de Banco de Dados Relacional: scripts SQL (criação de tabelas, inserções e consultas), atividades em PDF e o trabalho final da disciplina.
+Este repositório reúne as atividades práticas, listas e o trabalho final da disciplina de Banco de Dados Relacional do curso de Tecnologia em Ciência de Dados para Negócios da FATEC Votorantim.
 
-## Conteúdo
+O conteúdo abrange conceitos fundamentais de modelagem e manipulação de dados relacionais, incluindo scripts SQL para criação de tabelas (DDL), inserção de dados (DML) e consultas avançadas (DQL), acompanhados das documentações e relatórios em PDF.
 
-- Atividade_11_SQLQuery2.sql
-- Atividade_7_SQLQuery2.sql
-- Atividade_8_SQLQuery2.sql
-- Banco de dados Atividade 1-3 .pdf
-- Banco de dados Atividade 4  .pdf
-- Banco de dados Atividade 5  .pdf
-- Banco de dados Atividade 6 .pdf
-- Trabalho BD.docx
+📜 Licença e Uso
 
-## Autora
+Este repositório foi criado para fins de registro acadêmico e consulta de portfólio.
+- ❌ Não é permitida a cópia, reprodução ou redistribuição do conteúdo sem autorização prévia.
+- 👁️ Disponível apenas para visualização e consulta.
 
-Ana Elisa Rubinato - Ciência de Dados para Negócios (FATEC)
+✍️ Autora
+
+Ana Elisa Rubinato Cavalheiro  
+Graduanda em Tecnologia em Ciência de Dados para Negócios — FATEC Votorantim
